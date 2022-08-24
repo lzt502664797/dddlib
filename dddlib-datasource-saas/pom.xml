@@ -152,7 +152,7 @@
         <jdbc.host>${mysql.host}</jdbc.host>
         <jdbc.port>3306</jdbc.port>
         <jdbc.dbname>db</jdbc.dbname>
-        <jdbc.url>jdbc:mysql://${mysql.host}:${mysql.port}/?useUnicode=true&amp;characterEncoding=utf-8</jdbc.url>
+        <jdbc.url>jdbc:mysql://${mysql.host}:${mysql.port}/?useUnicode=true&amp;characterEncoding=utf-8&amp;serverTimezone=GMT</jdbc.url>
         <jdbc.username>${mysql.username}</jdbc.username>
         <jdbc.password>${mysql.password}</jdbc.password>
     </properties>

@@ -878,7 +878,7 @@
         <h2.password />
         <h2.version>1.4.185</h2.version>
         <mysql.username>root</mysql.username>
-        <mysql.password />
+        <mysql.password>123456</mysql.password>
         <mysql.host>localhost</mysql.host>
         <mysql.port>3306</mysql.port>
         <mysql.version>8.0.22</mysql.version>
